@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Robotaur 3D';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robotaur 3D'), url('../fonts/robotaur3d.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Robotaur 3D';
+    font-size: 200px;
+    font-weight: 100;
+    color: #0ccac4;
+}
